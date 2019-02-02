@@ -9,3 +9,6 @@
 
 3 AirHockeyOrtho
 	该Demo展示了如何使用正交投影矩阵解决横竖屏切换引起的显示比例失调的问题。
+	
+4 AirHockey3D
+    该Demon展示了如何使用透视投影让绘制三维场景。
