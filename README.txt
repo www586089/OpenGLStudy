@@ -15,3 +15,6 @@
 
 5 AirHockeyTextured
     该Demo展示了如何使用纹理映射以及如何调整代码以使用多个着色器程序并在不同的顶点数据之前切换。
+	
+6 AirHockeyWithBetterMallets
+    该Demo展示了如何使用OpenGL ES 2.0简单的绘制命令构建形体。
