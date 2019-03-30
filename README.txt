@@ -1,4 +1,4 @@
-关于OpenGL ES2.0的一些学习Demo
+﻿关于OpenGL ES2.0的一些学习Demo
 
 1 AirHockey1
 	该Demo展示了如何定义顶点着色器片元着色器，如何编译并链接着色器并创建能在GPU上运行的OpenGL程序，
@@ -18,3 +18,6 @@
 	
 6 AirHockeyWithBetterMallets
     该Demo展示了如何使用OpenGL ES 2.0简单的绘制命令构建形体。
+
+7 AirHockeyTouch
+    该Demo展示了如何针对OpenGL程序增加触摸反馈，如何进行3D空间中的相交测试及碰撞检测。
