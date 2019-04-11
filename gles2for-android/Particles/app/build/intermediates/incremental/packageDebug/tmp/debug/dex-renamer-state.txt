@@ -1,0 +1,4 @@
+#Thu Apr 11 17:53:07 CST 2019
+base.0=D\:\\Android\\workspace\\Particles\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
